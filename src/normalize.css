@@ -419,6 +419,7 @@ input[type='text'],
 input[type='time'],
 input[type='url'],
 input[type='week'] {
+  /* Add your styles here */
 }
 
 /* Button Controls
@@ -634,6 +635,7 @@ input[type='search']::-webkit-search-results-decoration {
 
 input[type='search'] {
   -webkit-appearance: none;
+  appearance: none;
   -moz-appearance: none;
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
